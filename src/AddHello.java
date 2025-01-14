@@ -1,5 +1,5 @@
 public class AddHello {
     public static void run() {
-        System.out.println("Hello twice");
+        System.out.println("Hello twice 2");
     }
 }
